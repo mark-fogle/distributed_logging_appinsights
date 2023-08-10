@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "",
+    "StorageConnection": "",
+    "StorageConnection:blob": "",
+    "StorageConnection:queue": "",
+    "EventGridEndpoint": "",
+    "EventGridKey": ""
+  }
+}
