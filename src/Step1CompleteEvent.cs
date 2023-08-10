@@ -1,9 +1,3 @@
-// File:  Step1CompleteEvent.cs
-// Author: Mark Fogle
-// Company: ActiGraph
-// Created: 2023-08-08
-// Purpose:
-
 using System;
 
 namespace ApplicationInsightsTest;
