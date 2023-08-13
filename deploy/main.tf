@@ -9,7 +9,6 @@ resource "azurerm_resource_group" "rg" {
 
 variable "prefix" {
   description = "Prefix set appropriately to ensure that resources are unique."
-  default="mftest2"
 }
 
 variable "location" {
